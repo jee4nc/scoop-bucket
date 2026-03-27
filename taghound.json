@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.2/taghound_windows_amd64.zip",
+            "bin": [
+                "taghound.exe"
+            ],
+            "hash": "3d542e942ef6261ef195ac88a82982c5c839400a33dc94a5bc071ab751ef42fd"
+        },
+        "arm64": {
+            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.2/taghound_windows_arm64.zip",
+            "bin": [
+                "taghound.exe"
+            ],
+            "hash": "41de14f0b6338f57e34f79937a4770e363c8151c601032ebfba4b875bfd610cb"
+        }
+    },
+    "homepage": "https://github.com/jee4nc/taghound",
+    "license": "MIT",
+    "description": "A fast CLI tool that tracks Git releases by reading branches and tags"
+}
