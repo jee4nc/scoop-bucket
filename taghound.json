@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.5/taghound_windows_amd64.zip",
+            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.7/taghound_windows_amd64.zip",
             "bin": [
                 "taghound.exe"
             ],
-            "hash": "ce2fc93f82f60820c8c41569b415a703642910be830477a9f13d77931b67ee55"
+            "hash": "9bc2a4a5eed7e67418300b69b05cb48b105a106daa862eae04258a68cb64c2a1"
         },
         "arm64": {
-            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.5/taghound_windows_arm64.zip",
+            "url": "https://github.com/jee4nc/taghound/releases/download/v0.1.7/taghound_windows_arm64.zip",
             "bin": [
                 "taghound.exe"
             ],
-            "hash": "f39c58e454d65d83ee2f9908f45fc66bb2f908f7d8ad55b7336af0676b560757"
+            "hash": "fcc8b7379be8261ac37d553935ae3558a3bbfe735c1eb389600fdde7c1ff9fc3"
         }
     },
     "homepage": "https://github.com/jee4nc/taghound",
