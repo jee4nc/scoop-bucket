@@ -1,19 +1,19 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jee4nc/packwatch/releases/download/v0.1.8/packwatch_windows_amd64.zip",
+            "url": "https://github.com/jee4nc/packwatch/releases/download/v0.1.9/packwatch_windows_amd64.zip",
             "bin": [
                 "packwatch.exe"
             ],
-            "hash": "cbd841c2ab5d80dfe4feab0f65f63cf57aa263f050f0df0b5684891483334c4c"
+            "hash": "cbac30114489c2073d62dbab50e9b9d95d7773f450656ed2647ebf5c8e1b5c1e"
         },
         "arm64": {
-            "url": "https://github.com/jee4nc/packwatch/releases/download/v0.1.8/packwatch_windows_arm64.zip",
+            "url": "https://github.com/jee4nc/packwatch/releases/download/v0.1.9/packwatch_windows_arm64.zip",
             "bin": [
                 "packwatch.exe"
             ],
-            "hash": "df9be058a8b49e5b04897301c5fe7dd04d263e62b5855e1a23755cfc0352be22"
+            "hash": "9c5ddefdc55a5f96084c8a188cef438b6ab6a8af1521072ff358139690771eff"
         }
     },
     "homepage": "https://github.com/jee4nc/packwatch",
